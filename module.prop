@@ -1,0 +1,6 @@
+id=guanxe-wsa-fix
+name=Guanxe WSA Fix
+version=v1.0.0
+versionCode=100
+author=local
+description=Guanxe on WSA: install from /sdcard/GuanxeFix + extract arm64 libs (libreactnative). Tap Action after installs/updates. Wide APK builds are on PC (see HOWTO.md / tools/make-wide-apk.ps1).
